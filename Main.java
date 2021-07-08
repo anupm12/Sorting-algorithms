@@ -7,6 +7,5 @@ public class Main {
         System.out.println(Arrays.toString(arr));
         bs.sort(arr);
         System.out.println(Arrays.toString(arr));
-        
     }
 }
