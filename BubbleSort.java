@@ -1,4 +1,4 @@
-public class bubbleSort {
+public class BubbleSort {
     public void sort(int[] arr){
         boolean isSorted = true;
         for(int i = 0; i < arr.length; i++){
